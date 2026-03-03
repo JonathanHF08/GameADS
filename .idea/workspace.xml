@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec348f7e-e033-4ff2-9fce-82c7927aecfe" name="Changes" comment="adicionando classes">
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Menu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/MenuBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Score.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ScoreBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/fase1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/player1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="ec348f7e-e033-4ff2-9fce-82c7927aecfe" name="Changes" comment="adicionando imagens e criando menu">
+      <change afterPath="$PROJECT_DIR$/asset/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Game.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -125,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772492923987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicionando imagens e criando menu">
+      <option name="closed" value="true" />
+      <created>1772495120956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772495120956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeira aula" />
     <MESSAGE value="adicionando classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando classes" />
+    <MESSAGE value="adicionando imagens e criando menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando imagens e criando menu" />
   </component>
 </project>
