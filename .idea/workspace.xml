@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec348f7e-e033-4ff2-9fce-82c7927aecfe" name="Changes" comment="adicionando imagens e criando menu">
-      <change afterPath="$PROJECT_DIR$/asset/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+    <list default="true" id="ec348f7e-e033-4ff2-9fce-82c7927aecfe" name="Changes" comment="Menu pronto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,11 +49,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Game.executor": "Run",
+    "Python.Menu.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature__level",
     "last_opened_file_path": "C:/Users/jonat/PycharmProjects/PythonProject1/asset"
   }
 }]]></component>
@@ -106,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772495120956</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Menu pronto">
+      <option name="closed" value="true" />
+      <created>1772578518151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772578518151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +137,7 @@
     <MESSAGE value="Primeira aula" />
     <MESSAGE value="adicionando classes" />
     <MESSAGE value="adicionando imagens e criando menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando imagens e criando menu" />
+    <MESSAGE value="Menu pronto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu pronto" />
   </component>
 </project>
